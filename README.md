@@ -6,6 +6,7 @@ Senior Software Developer focused on backend development.
 - C#, .NET 8
 - Java, Python
 - C/C++
+- Lua
 - SQL / NoSQL
 
 ## Interests
